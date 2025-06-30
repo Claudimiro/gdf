@@ -47,4 +47,5 @@
   <h2>Menu</h2>
   <a href="index.php">Dashboard</a>
   <a href="gestao_questionario.php">Consultar Questionário</a>
+  <a href="http://erav-b723c8765579.herokuapp.com/">RAV</a>
 </div>
